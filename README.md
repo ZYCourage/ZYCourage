@@ -1,4 +1,4 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=ZCOOL+XiaoWei&size=36&pause=1000&color=F77736&vCenter=true&width=600&lines=%E4%BD%A0%E5%A5%BD%F0%9F%91%8B++%E6%88%91%E6%98%AFZYCourage;Hello+%F0%9F%91%8B+I'm+ZYCourage;Hola+%F0%9F%91%8B+Soy+ZYCourage;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%F0%9F%91%8B+ZYCourage%E3%81%A7%E3%81%99;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%F0%9F%91%8B+%D0%AF+ZYCourage)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Alkatra&size=40&duration=3000&pause=50&color=000000&center=true&vCenter=true&width=1000&height=400&lines=%2F*%F0%9F%91%8BHello+World*%2F;%2F*%F0%9F%91%8BHallo+Welt*%2F;%2F*%F0%9F%91%8BCiao+mondo*%2F;%2F*%F0%9F%91%8BHola+mundo*%2F;%2F*%F0%9F%91%8BBonjour+le+monde*%2F;%2F*%F0%9F%91%8B%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C*%2F)](https://git.io/typing-svg)
 
 ## Hi🙋‍♂️! Here is ZYCourage's github homepage.
 Nice to meet you! As a student from BJTU major Software Engineering, I am glad to learn together with you on Github👨‍🚀.
