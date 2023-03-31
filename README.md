@@ -5,7 +5,7 @@ Nice to meet you! As a student from BJTU major Software Engineering, I am glad t
 <div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=ZYCourage" /> </div>
 
 ## Language and Tools
-<div align="left">  
+<div align="center">  
 <img height="40" width="40" src="https://cdn.simpleicons.org/python" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/cplusplus" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/typescript" />
@@ -16,6 +16,8 @@ Nice to meet you! As a student from BJTU major Software Engineering, I am glad t
 <img height="40" width="40" src="https://cdn.simpleicons.org/mysql" /> 
 <img height="40" width="40" src="https://cdn.simpleicons.org/oracle" /> 
 <img height="40" width="40" src="https://cdn.simpleicons.org/adobepremierepro" /> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/linux" /> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/rust" /> 
 </div>  
 <br/>
 
