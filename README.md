@@ -2,7 +2,6 @@
 
 ## Hi🙋‍♂️! Here is ZYCourage's github homepage.
 Nice to meet you! As a student from BJTU major Software Engineering, I am glad to learn together with you on Github👨‍🚀.
-<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=ZYCourage" /> </div>
 
 ## Language and Tools
 <div align="center">  
