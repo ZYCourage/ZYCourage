@@ -7,10 +7,12 @@ Nice to meet you! As a student from BJTU major Software Engineering, I am glad t
 <div align="center">  
 <img height="40" width="40" src="https://cdn.simpleicons.org/python" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/cplusplus" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/java" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/typescript" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/spring" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/flask" /> 
 <img height="40" width="40" src="https://cdn.simpleicons.org/vuedotjs" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/conda" /> 
 <img height="40" width="40" src="https://cdn.simpleicons.org/pytorch" /> 
 <img height="40" width="40" src="https://cdn.simpleicons.org/mysql" /> 
 <img height="40" width="40" src="https://cdn.simpleicons.org/docker" /> 
