@@ -7,7 +7,7 @@ Nice to meet you! As a student from BJTU major Software Engineering, I am glad t
 <div align="center">  
 <img height="40" width="40" src="https://cdn.simpleicons.org/python" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/cplusplus" />
-<img height="40" width="40" src="[https:////at.alicdn.com/t/c/font_4467135_jhe3g4akda.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)" />
+<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/jupyter" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/typescript" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/spring" />
